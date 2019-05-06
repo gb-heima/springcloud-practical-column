@@ -1,0 +1,22 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8888
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:gb-heima/config-rep.git
+          username: gb-heima
+          password: 010223gbly,.
+          basedir: /Users/Administrator.PC-20180929LWLP/Desktop/springcloud-practical-column/sc-f-chapter6/config/basedir
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
