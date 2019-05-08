@@ -6,34 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-server (6)" />
-        <module name="service-hi (2)" />
-        <module name="config-server" />
-        <module name="config-client" />
-        <module name="service-feign" />
-        <module name="eureka-server (3)" />
-        <module name="eureka-server (1)" />
-        <module name="service-ribbon (1)" />
-        <module name="service-miya" />
-        <module name="service-hi" />
-        <module name="service-feign (2)" />
-        <module name="service-hi (4)" />
-        <module name="service-ribbon (2)" />
         <module name="service-ribbon (3)" />
-        <module name="service-zuul" />
-        <module name="service-ribbon" />
-        <module name="service-hi (3)" />
-        <module name="eureka-server" />
         <module name="eureka-server (7)" />
-        <module name="sc-f-chapter9" />
-        <module name="service-zipkin" />
-        <module name="eureka-server (2)" />
-        <module name="config-server (1)" />
-        <module name="service-hi (1)" />
+        <module name="service-ribbon" />
+        <module name="service-hi (5)" />
+        <module name="service-miya" />
         <module name="eureka-server (4)" />
         <module name="service-feign (1)" />
-        <module name="eureka-server (5)" />
+        <module name="service-hi (2)" />
+        <module name="service-zipkin" />
+        <module name="service-zuul" />
         <module name="config-client (1)" />
+        <module name="eureka-server (1)" />
+        <module name="service-ribbon (2)" />
+        <module name="eureka-server (6)" />
+        <module name="config-client" />
+        <module name="service-hi (4)" />
+        <module name="config-server (1)" />
+        <module name="config-server" />
+        <module name="service-hi" />
+        <module name="eureka-server (3)" />
+        <module name="service-feign" />
+        <module name="eureka-server (8)" />
+        <module name="service-hi (1)" />
+        <module name="eureka-server" />
+        <module name="service-ribbon (1)" />
+        <module name="eureka-server (5)" />
+        <module name="service-feign (2)" />
+        <module name="service-hi (3)" />
+        <module name="sc-f-chapter9" />
+        <module name="eureka-server (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -49,7 +51,9 @@
       <module name="eureka-server (5)" target="1.8" />
       <module name="eureka-server (6)" target="1.8" />
       <module name="eureka-server (7)" target="1.8" />
+      <module name="eureka-server (8)" target="1.8" />
       <module name="sc-f-chapter1" target="1.8" />
+      <module name="sc-f-chapter10" target="1.8" />
       <module name="sc-f-chapter2" target="1.8" />
       <module name="sc-f-chapter3" target="1.8" />
       <module name="sc-f-chapter4" target="1.8" />
@@ -66,6 +70,7 @@
       <module name="service-hi (2)" target="1.8" />
       <module name="service-hi (3)" target="1.8" />
       <module name="service-hi (4)" target="1.8" />
+      <module name="service-hi (5)" target="1.8" />
       <module name="service-miya" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-ribbon (1)" target="1.8" />
@@ -89,6 +94,7 @@
       <module name="eureka-server (5)" options="-parameters" />
       <module name="eureka-server (6)" options="-parameters" />
       <module name="eureka-server (7)" options="-parameters" />
+      <module name="eureka-server (8)" options="-parameters" />
       <module name="sc-f-chapter1" options="" />
       <module name="sc-f-chapter6" options="-parameters" />
       <module name="sc-f-chapter9" options="-parameters" />
@@ -100,6 +106,7 @@
       <module name="service-hi (2)" options="-parameters" />
       <module name="service-hi (3)" options="-parameters" />
       <module name="service-hi (4)" options="-parameters" />
+      <module name="service-hi (5)" options="-parameters" />
       <module name="service-miya" options="-parameters" />
       <module name="service-ribbon" options="-parameters" />
       <module name="service-ribbon (1)" options="-parameters" />
