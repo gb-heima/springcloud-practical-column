@@ -1,0 +1,6 @@
+github Wiki克隆地址:git@github.com:gb-heima/springcloud-practical-column.wiki.git
+
+克隆方式(git):
+
+远程拉去到本地，执行命令：
+git clone git@github.com:gb-heima/springcloud-practical-column.wiki.git

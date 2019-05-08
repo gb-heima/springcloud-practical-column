@@ -6,6 +6,21 @@
         <option value="$PROJECT_DIR$/sc-f-chapter1/pom.xml" />
         <option value="$PROJECT_DIR$/sc-f-chapter1/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/sc-f-chapter1/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter2/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter3/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter8/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/service-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/service-miya/pom.xml" />
       </list>
     </option>
   </component>

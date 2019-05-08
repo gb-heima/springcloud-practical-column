@@ -4,6 +4,38 @@
     <file url="file://$PROJECT_DIR$/sc-f-chapter1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-f-chapter1/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-f-chapter1/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter2/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter2/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter2/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter3/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter3/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter3/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter4/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter4/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter4/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter4/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter5/service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter6/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter6/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter6/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter8/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter8/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter8/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter9/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter9/service-miya" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter9/service-zipkin" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

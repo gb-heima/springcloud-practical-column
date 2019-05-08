@@ -6,21 +6,107 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server (6)" />
+        <module name="service-hi (2)" />
+        <module name="config-server" />
+        <module name="config-client" />
+        <module name="service-feign" />
+        <module name="eureka-server (3)" />
+        <module name="eureka-server (1)" />
+        <module name="service-ribbon (1)" />
+        <module name="service-miya" />
         <module name="service-hi" />
+        <module name="service-feign (2)" />
+        <module name="service-hi (4)" />
+        <module name="service-ribbon (2)" />
+        <module name="service-ribbon (3)" />
+        <module name="service-zuul" />
+        <module name="service-ribbon" />
+        <module name="service-hi (3)" />
         <module name="eureka-server" />
+        <module name="eureka-server (7)" />
+        <module name="sc-f-chapter9" />
+        <module name="service-zipkin" />
+        <module name="eureka-server (2)" />
+        <module name="config-server (1)" />
+        <module name="service-hi (1)" />
+        <module name="eureka-server (4)" />
+        <module name="service-feign (1)" />
+        <module name="eureka-server (5)" />
+        <module name="config-client (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-client (1)" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server (1)" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (4)" target="1.8" />
+      <module name="eureka-server (5)" target="1.8" />
+      <module name="eureka-server (6)" target="1.8" />
+      <module name="eureka-server (7)" target="1.8" />
       <module name="sc-f-chapter1" target="1.8" />
+      <module name="sc-f-chapter2" target="1.8" />
+      <module name="sc-f-chapter3" target="1.8" />
+      <module name="sc-f-chapter4" target="1.8" />
+      <module name="sc-f-chapter5" target="1.8" />
+      <module name="sc-f-chapter6" target="1.8" />
+      <module name="sc-f-chapter6 (1)" target="1.8" />
+      <module name="sc-f-chapter8" target="1.8" />
+      <module name="sc-f-chapter9" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign (1)" target="1.8" />
+      <module name="service-feign (2)" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
+      <module name="service-hi (2)" target="1.8" />
+      <module name="service-hi (3)" target="1.8" />
+      <module name="service-hi (4)" target="1.8" />
+      <module name="service-miya" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon (1)" target="1.8" />
+      <module name="service-ribbon (2)" target="1.8" />
+      <module name="service-ribbon (3)" target="1.8" />
+      <module name="service-zipkin" target="1.8" />
+      <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="-parameters" />
+      <module name="config-client (1)" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-server (1)" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server (1)" options="-parameters" />
+      <module name="eureka-server (2)" options="-parameters" />
+      <module name="eureka-server (3)" options="-parameters" />
+      <module name="eureka-server (4)" options="-parameters" />
+      <module name="eureka-server (5)" options="-parameters" />
+      <module name="eureka-server (6)" options="-parameters" />
+      <module name="eureka-server (7)" options="-parameters" />
       <module name="sc-f-chapter1" options="" />
+      <module name="sc-f-chapter6" options="-parameters" />
+      <module name="sc-f-chapter9" options="-parameters" />
+      <module name="service-feign" options="-parameters" />
+      <module name="service-feign (1)" options="-parameters" />
+      <module name="service-feign (2)" options="-parameters" />
       <module name="service-hi" options="-parameters" />
+      <module name="service-hi (1)" options="-parameters" />
+      <module name="service-hi (2)" options="-parameters" />
+      <module name="service-hi (3)" options="-parameters" />
+      <module name="service-hi (4)" options="-parameters" />
+      <module name="service-miya" options="-parameters" />
+      <module name="service-ribbon" options="-parameters" />
+      <module name="service-ribbon (1)" options="-parameters" />
+      <module name="service-ribbon (2)" options="-parameters" />
+      <module name="service-ribbon (3)" options="-parameters" />
+      <module name="service-zipkin" options="-parameters" />
+      <module name="service-zuul" options="-parameters" />
     </option>
   </component>
 </project>
