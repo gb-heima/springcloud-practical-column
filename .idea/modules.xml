@@ -15,8 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter8/eureka-server/eureka-server (6).iml" filepath="$PROJECT_DIR$/sc-f-chapter8/eureka-server/eureka-server (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9/eureka-server/eureka-server (7).iml" filepath="$PROJECT_DIR$/sc-f-chapter9/eureka-server/eureka-server (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/eureka-server/eureka-server (8).iml" filepath="$PROJECT_DIR$/sc-f-chapter10/eureka-server/eureka-server (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/eureka-server/eureka-server (9).iml" filepath="$PROJECT_DIR$/sc-f-chapter12/eureka-server/eureka-server (9).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter1/sc-f-chapter1.iml" filepath="$PROJECT_DIR$/sc-f-chapter1/sc-f-chapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/sc-f-chapter10.iml" filepath="$PROJECT_DIR$/sc-f-chapter10/sc-f-chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/sc-f-chapter12.iml" filepath="$PROJECT_DIR$/sc-f-chapter12/sc-f-chapter12.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/sc-f-chapter2.iml" filepath="$PROJECT_DIR$/sc-f-chapter2/sc-f-chapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/sc-f-chapter3.iml" filepath="$PROJECT_DIR$/sc-f-chapter3/sc-f-chapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/sc-f-chapter4.iml" filepath="$PROJECT_DIR$/sc-f-chapter4/sc-f-chapter4.iml" />
@@ -34,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/service-hi/service-hi (3).iml" filepath="$PROJECT_DIR$/sc-f-chapter4/service-hi/service-hi (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi (4).iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi (4).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/service-hi/service-hi (5).iml" filepath="$PROJECT_DIR$/sc-f-chapter10/service-hi/service-hi (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/service-hi/service-hi (6).iml" filepath="$PROJECT_DIR$/sc-f-chapter12/service-hi/service-hi (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/sc-f-chapter9/service-miya/service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/sc-f-chapter2/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/service-ribbon/service-ribbon (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter3/service-ribbon/service-ribbon (1).iml" />
