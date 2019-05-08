@@ -17,10 +17,10 @@
     <name>sc-f-chapter1</name>
     <description>Demo project for Spring Boot</description>
 
-    <!-- <modules>
+     <modules>
          <module>eureka-server</module>
          <module>service-hi</module>
-     </modules>-->
+     </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
