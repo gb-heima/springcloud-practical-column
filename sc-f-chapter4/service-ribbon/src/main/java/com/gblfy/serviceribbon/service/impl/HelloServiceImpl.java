@@ -27,6 +27,6 @@ public class HelloServiceImpl implements HelloService {
 
     @Override
     public String hiError(String name) {
-        return "hi," + name + ",sorry,error!";
+        return "hi," + name + ",sorry,今天美女太多了!";
     }
 }
