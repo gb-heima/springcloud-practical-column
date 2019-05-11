@@ -15,8 +15,8 @@ spring:
           username: gb-heima
           password: 010223gbly,.
           basedir: /Users/Administrator.PC-20180929LWLP/Desktop/springcloud-practical-column/sc-f-chapter6/config/basedir
-management:
-  endpoints:
-    web:
-      exposure:
-        include: bus-refresh
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: bus-refresh

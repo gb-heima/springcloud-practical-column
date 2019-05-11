@@ -20,8 +20,8 @@ public class GirlController {
     @Autowired
     private GirlConfig girlConfig;
 
-    @GetMapping("/print")
-    public String print() {
-        return "name:" + girlConfig.getName() + "," + girlConfig.getAge();
+    @GetMapping("/info")
+    public String getGirlInfo() {
+        return "name:" + girlConfig.getName() + ",age:" + girlConfig.getAge();
     }
 }
