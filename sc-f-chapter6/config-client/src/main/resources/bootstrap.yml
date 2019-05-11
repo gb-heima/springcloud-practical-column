@@ -2,13 +2,6 @@
 spring:
   application:
     name: config-client
-  jpa:
-    show-sql: true
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: root
-    url: jdbc:mysql://127.0.0.1:3306/springcloud_sell?characterEnconding=utf-8&useSSL=false
   cloud:
     config:
       discovery:
